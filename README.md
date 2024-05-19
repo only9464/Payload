@@ -13,7 +13,7 @@
 
 ## File Structure / 文件结构
 
-```
+```PowerShell
 │  CNAME
 │  README.md
 │  index.html
