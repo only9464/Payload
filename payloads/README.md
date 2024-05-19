@@ -1,11 +1,3 @@
-![alt text](https://cdn.instructables.com/FKP/MAA2/HH2VJNW1/FKPMAA2HH2VJNW1.MEDIUM.jpg "The DigiSpark")
-
-# DigiSpark-Scripts
-This is a set of hand-written DigiSpark sketches for the Arduino IDE that utilize the DigiKeyboard.h library making the DigiSpark to act as a keyboard and execute a variety of actions. If you have found a USB Rubber Ducky scipt that you want to convert to a DigiSpark sketch, you can always use digiQuack, a tool which can be found in my repositories.
-
-# Instructions
-Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/digispark/tutorials/connecting or Seytonic's tutorial: https://youtu.be/fGmGBa-4cYQ. Then download one of scripts (sketches), open them with Arduino IDE, modify them if needed and upload them to the DigiSpark.
-
 # Script Descriptions
 
 - **Create_Account**: Creates a new admin account and optionally hides it
@@ -23,26 +15,6 @@ Configure the Arduino IDE for the DigiSpark using: https://digistump.com/wiki/di
 - **WiFi_Profile_Grabber**: Extracts wifi profiles and saves the csv to a USB drive
 - **WiFi_Profile_Mailer**: Writes the wireless network credentials to a csv file and emails it
 - **Window_Jammer**: Spams ALT + F4 and CTRL + W key combos to force close all active windows
-
-# See the scripts in action
-
-Click the gifs to see the full video
-
-[![Wifi Stealer](https://j.gifs.com/N9KP5v.gif)](https://www.youtube.com/watch?v=b5E0u4qNH4s)
-
-[![Wallpaper Prank](https://j.gifs.com/32r7ER.gif)](https://www.youtube.com/watch?v=yHPRZnpxvks)
-
-# Contributors
-
-- **samratashok**
-- **NassimBentarka**
-- **p0wc0w**
-- **apsecdev**
-- **BlackBoot**
-- **Michyus**
-- **Vel1khaN**
-- **slipperyavocado**
-- **bernsteining**
 
 # Resources
 
