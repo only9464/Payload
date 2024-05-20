@@ -15,6 +15,15 @@
 - **WiFi_Profile_Grabber**: Extracts wifi profiles and saves the csv to a USB drive
 - **WiFi_Profile_Mailer**: Writes the wireless network credentials to a csv file and emails it
 - **Window_Jammer**: Spams ALT + F4 and CTRL + W key combos to force close all active windows
+- **Wi-Fi password stealer**: Grabs Windows saved Wi-Fi passwords and send them to your remote web server
+- **Windows Crasher**: Various payloads for crashing windows
+- **UAC Bypass**: Different methods to bypass windows UAC
+- **BackDoor**: Creates backdoor for later access
+- **KeyLogger**: For logging and sending typed keys
+- **Windows Phisher**: Phisher for windows credentials
+- **Sam Dumper**: Dump windows password files (SAM) and send them to remote location
+- **Payload Dropper**: Download and exeute files from internet
+- **Instant Shell**: Reverse shell payloads
 
 # Resources
 
